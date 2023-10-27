@@ -18,7 +18,7 @@ To write a program to predict the marks scored by a student using the simple lin
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: SANDHYA BN
-RegisterNumber:21222040144
+RegisterNumber: 212222040144
 # IMPORT REQUIRED PACKAGE
 import pandas as pd
 import numpy as np
@@ -64,14 +64,11 @@ print('Mean Square Error = ',mse)
 mae=mean_absolute_error(y_test,y_pred)
 print('Mean Absolute Error = ',mae)
 rmse=np.sqrt(mse)
-print("Root Mean Square Error = ",rmse)
+print("Root Mean Square Error = ",rmse)
 */
 ```
 
 ## Output:
-To read csv file
-
-![output 1](https://github.com/sandhyabalamurali/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/115525118/ae1c4de8-0530-4484-85ca-62eab9511d0a)
 
 To Read Head and Tail Files
 
